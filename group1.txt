@@ -1,0 +1,14 @@
+Wanda,Vision
+Tony,Pepper
+Strange
+Loki
+Bruce
+Clint
+Carol
+Nebula
+Bucky
+Gamora
+TChallaa
+Steve
+Peggy
+Sami
